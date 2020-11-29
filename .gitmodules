@@ -1,0 +1,4 @@
+[submodule "module"]
+	path = module
+	url = https://github.com/oen142/git-submodule-root-tutorial
+	branch = main
